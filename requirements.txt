@@ -2,5 +2,4 @@ bs4
 flask
 pymongo
 selenium
-
--e .
+gunicorn
