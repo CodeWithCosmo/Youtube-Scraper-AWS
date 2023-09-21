@@ -4,6 +4,7 @@ from src.utils import write_mongo,scrape_records
 from src.exception import CustomException
 
 application = Flask(__name__)  
+app = application
 
 @app.route('/', methods=['GET'])  
 def home():
