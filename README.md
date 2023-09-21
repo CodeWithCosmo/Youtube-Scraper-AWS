@@ -11,7 +11,8 @@
 4. [MongoDB](https://www.mongodb.com/)
 5. [GitCLI](https://git-scm.com/book/en/v2/Getting-Started-The-Command-Line)
 6. [Github Account](https://github.com)
-7. [Render](https://render.com/)
+7. [ElasticBeanstalk](https://aws.amazon.com/elasticbeanstalk/)
+8. [CodePipeline](https://aws.amazon.com/codepipeline/)
 
 
 * ## **How to setup ?**
