@@ -1,0 +1,9 @@
+bs4
+flask
+python-dotenv
+py-dotenv
+pymongo
+waitress
+selenium
+
+-e .
